@@ -1,0 +1,12 @@
+1- Configurar la Base de datos en el archivo src/Models/userModel.php :Linea 7
+2- para ejecutar la API solo debe pasar los archivos a un servidor PHP y ejecutar index.php
+3- Para agregar un usuario se debe enviar por POST y el formato de los datos debe ser JSON los campos son:
+ -name
+ -last_name
+ -email
+ Ex.:
+  {
+  "name": "Edwin",
+  "last_name":"garcia",
+  "email":"edwin@mail.com"
+    }
