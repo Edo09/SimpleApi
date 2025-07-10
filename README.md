@@ -9,6 +9,3 @@ Una API RESTful sencilla desarrollada en PHP, diseñada como ejemplo base para p
 - 🧪 Manejo básico de errores y validaciones
 - 🔐 Listo para agregar autenticación JWT o básica
 - 🌐 Compatible con CORS
-
-## 📁 Estructura del proyecto
-
